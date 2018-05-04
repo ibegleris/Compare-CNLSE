@@ -1,5 +1,5 @@
 # banded-nlse
-[![Build Status](https://travis-ci.com/ibegleris/banded-nlse.svg?token=UafEdqSJuFtM7z2nYK1k&branch=master)](https://travis-ci.com/ibegleris/banded-nlse)
+[![Build Status](https://travis-ci.org/ibegleris/Compare-CNLSE.svg?branch=master)
 
 This repository holds the codes used for comparing the Generalised nonlinear Schrodinger equation (GNLSE) and the new Banded nonlinear equation (BNLSE) in terms of frequency bands. 
 

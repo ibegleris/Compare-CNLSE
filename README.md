@@ -21,4 +21,5 @@ This repository holds the codes used for comparing the Generalised nonlinear Sch
  	* Parameters changed in inputs() within src/main.py
 
 Reference Journal paper:
+
 Ioannis Begleris and Peter Horak, "Frequency-banded nonlinear Schrödinger equation with inclusion of Raman nonlinearity," Opt. Express 26, 21527-21536 (2018)

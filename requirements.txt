@@ -2,8 +2,8 @@ numpy
 scipy
 joblib
 matplotlib
-numba
 pytest
 tornado
 h5py
 nose
+numba

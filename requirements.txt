@@ -1,9 +1,9 @@
-numpy==1.14
-scipy==1
-joblib==0.11
-matplotlib==2.1
+numpy
+scipy
+joblib
+matplotlib
 numba
-pytest==3.4.2
+pytest
 tornado
-h5py==2.7.1
-nose >= 1.0.0
+h5py
+nose

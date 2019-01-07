@@ -29,7 +29,7 @@ install:
 - conda config --set always_yes yes --set changeps1 no
 - conda update conda -y
 - conda config --add channels intel
-- conda create -n intel intelpython3_core python=3
+- conda create -n intel intelpython3_core python=3.6
 - conda install scripting -c csdms-stack
 - conda install --yes --file requirements.txt
 - conda info -a && conda list

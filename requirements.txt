@@ -1,7 +1,7 @@
 
 numpy==1.14
 scipy>=1
-joblib==0.11
+joblib>=0.11
 matplotlib==2.1
 numba
 attrs>=17.4.0 
